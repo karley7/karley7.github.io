@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://karley7.github.io</id>
+    <title>Karley X</title>
+    <updated>2023-06-14T15:07:26.414Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://karley7.github.io"/>
+    <link rel="self" href="https://karley7.github.io/atom.xml"/>
+    <subtitle>I can do all things !</subtitle>
+    <logo>https://karley7.github.io/images/avatar.png</logo>
+    <icon>https://karley7.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Karley X</rights>
+    <entry>
+        <title type="html"><![CDATA[『讯飞智作』竞品分析报告]]></title>
+        <id>https://karley7.github.io/post/xunfei/</id>
+        <link href="https://karley7.github.io/post/xunfei/">
+        </link>
+        <updated>2023-05-09T11:56:14.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>听说最近 AIGC 最新很火，那小胖君就以<a href="https://peiyin.xunfei.cn/">『讯飞智作』</a>为例，分析一下AIGC平台吧！</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>听说最近 AIGC 最新很火，那小胖君就以<a href="https://peiyin.xunfei.cn/">『讯飞智作』</a>为例，分析一下AIGC平台吧！</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformer详解]]></title>
+        <id>https://karley7.github.io/post/transformer/</id>
+        <link href="https://karley7.github.io/post/transformer/">
+        </link>
+        <updated>2022-12-04T06:32:40.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>小胖君最近在研究 <a href="https://arxiv.org/pdf/1706.03762.pdf">Transformer</a>，今天来和大家分享一下。在本文中，小胖君将试图把模型简化一点，并逐一介绍里面的核心概念。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>小胖君最近在研究 <a href="https://arxiv.org/pdf/1706.03762.pdf">Transformer</a>，今天来和大家分享一下。在本文中，小胖君将试图把模型简化一点，并逐一介绍里面的核心概念。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Github + Gridea 搭建个人博客 ]]></title>
+        <id>https://karley7.github.io/post/github-gridea/</id>
+        <link href="https://karley7.github.io/post/github-gridea/">
+        </link>
+        <updated>2021-05-20T14:43:04.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>小胖君想和大家分享一下如何使用 <strong><a href="https://github.com/">Github</a></strong> + <strong><a href="https://open.gridea.dev/">Gridea</a></strong> 搭建个人博客！</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>小胖君想和大家分享一下如何使用 <strong><a href="https://github.com/">Github</a></strong> + <strong><a href="https://open.gridea.dev/">Gridea</a></strong> 搭建个人博客！</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://karley7.github.io/post/hello-gridea/</id>
+        <link href="https://karley7.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
